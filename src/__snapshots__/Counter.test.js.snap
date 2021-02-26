@@ -1,0 +1,17 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Counter matches snapshot 1`] = `
+<DocumentFragment>
+  <div>
+    <span
+      data-testid="number"
+      style="padding-right: 10px;"
+    >
+      0
+    </span>
+    <button>
+      Increment
+    </button>
+  </div>
+</DocumentFragment>
+`;
